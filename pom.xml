@@ -63,7 +63,7 @@
 					<useSystemClassLoader>false</useSystemClassLoader>
 					<includes>
 						<include>**/*Test.java</include>
-						<include>**/AllTests.java</include>  <!-- explicitly
+						<include>**/AllTestsTest.java</include>  <!-- explicitly
 						include your suite -->
 
 					</includes>
